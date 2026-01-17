@@ -1,5 +1,9 @@
 # ds_anish_sawant
 junior data science assignment
+
+#Link to Google colab code
+https://colab.research.google.com/drive/1s_8WjHoxgU8aBIQt9eKStRz1EJOvOJWg
+
 # Data Science Assignment – Trader Performance vs Market Sentiment
 
 ## Project Overview
